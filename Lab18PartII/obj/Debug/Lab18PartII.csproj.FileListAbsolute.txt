@@ -1,0 +1,7 @@
+c:\users\tim\source\repos\Lab18PartII\Lab18PartII\bin\Debug\Lab18PartII.exe.config
+c:\users\tim\source\repos\Lab18PartII\Lab18PartII\bin\Debug\Lab18PartII.exe
+c:\users\tim\source\repos\Lab18PartII\Lab18PartII\bin\Debug\Lab18PartII.pdb
+c:\users\tim\source\repos\Lab18PartII\Lab18PartII\obj\Debug\Lab18PartII.csprojResolveAssemblyReference.cache
+c:\users\tim\source\repos\Lab18PartII\Lab18PartII\obj\Debug\Lab18PartII.csproj.CoreCompileInputs.cache
+c:\users\tim\source\repos\Lab18PartII\Lab18PartII\obj\Debug\Lab18PartII.exe
+c:\users\tim\source\repos\Lab18PartII\Lab18PartII\obj\Debug\Lab18PartII.pdb
